@@ -273,14 +273,14 @@
         </div>
       </div>
 
-<pre><div class="banner">Metrics generator 3.6.0
+<pre><div class="banner">Metrics generator 3.7.0
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Fri, 16 Apr 2021 21:02:59 GMT
+Last generated: Fri, 16 Apr 2021 22:03:03 GMT
 </div>
 <div class="stdin"><span class="ps1-path">florianbaer@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Florian Bär</b> registered=8y, uid=1156, gid=0
-  contributed to 6 repositories <b><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 18 repositories <b><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>40</b> users
 </div>
 <div class="stdin"><span class="ps1-path">florianbaer@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
@@ -305,7 +305,7 @@ dr-x         LICENSE
 -r--         └── MIT
 </div>
 <div class="stdin"><span class="ps1-path">florianbaer@metrics</span>:<span class="ps1-location">~</span>$ curl -I </div><div class="stdout"><span class="error">API returned 429</span></div>
-<footer>Connection reset by 244.60.155.74</footer></pre>
+<footer>Connection reset by 243.58.48.198</footer></pre>
 
       <div id="metrics-end"></div>
     </div>
