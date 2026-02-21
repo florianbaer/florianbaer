@@ -1,12 +1,52 @@
-### Hi there 👋
+# Hi, I'm Florian Bär 👋
 
+**Data Scientist** based in Zug, Switzerland      
+                                                     
+10+ years in technology, 4+ specializing in AI/ML — with a background spanning life sciences, healthcare, enterprise software, and academic research.
 
-- 🔭 I'm working at [DBIZ](https://digital-business-lab.ch) (Digital Business Research Lab) at Hochschule Luzern
-- 📖 I wrote my bachelor thesis regarding text classification using transformers (BERT etc...)
-- 📖 My master thesis' title **Using Transformers for Skeletal Pose Sequence Generation** for sign language
-- :hammer: I worked with Python, K8s, Angular, .NET 5, PostgreSQL
-- :whale: CKA: [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/b70fad82-80f7-4fd8-b769-d0c3fa9f53ee/linked_in)
-- 🌱 BSc and MSc from Fachhochschule Zentralschweiz (Hochschule Luzern)
-- 💬 Ask me about anything. It's possible that you won't get an answer.
+## What I do
 
-![Metrics](https://metrics.lecoq.io/florianbaer?template=terminal&pagespeed=1&stars=1&projects=1&isocalendar=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&projects.limit=4&stars.limit=4&config.timezone=Europe%2FZurich)
+- **Machine Learning & AI** — Deep learning, applied ML, demand forecasting, recommendation systems
+- **Natural Language Processing** — Document understanding, LLM integration, conversational AI
+- **MLOps & Infrastructure** — Kubernetes, OpenShift, CI/CD pipelines (CKA-certified)
+- **Full-Stack Engineering** — APIs, dashboards, and interfaces for ML models
+
+## Tech stack
+
+**Languages**: Python · JavaScript · C#
+
+**Frameworks & Tools**: PyTorch · FastAPI · Pandas · HuggingFace Transformers · LangChain · DsPy · Vue
+
+**Infrastructure**: Kubernetes · Docker · DevOps · DVC
+
+**Databases**: PostgreSQL · MongoDB · MS SQL Server
+
+## Experience
+
+- **Data Scientist** @ Helsana (2026 – present)
+- **Research Associate in Machine Learning** @ HSLU (2022 – 2025)
+- **Data Scientist** @ Jaywalker Digital (2022 – 2024)
+- **Full Stack Engineer** @ SOFTEC AG (2016 – 2022)
+- **Associate Software Engineer** @ Roche (2014 – 2016)
+
+## Education
+
+- **MSc** from Hochschule Luzern (HSLU) — Thesis: *Using Transformers for Skeletal Pose Sequence Generation* (sign language)
+- **BSc** from Hochschule Luzern (HSLU) — Thesis: Text classification using Transformers (BERT)
+
+## Certifications
+
+- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/c559b45d-2620-41d1-a3a7-6f0452af8ca9) — Linux Foundation
+
+## Research & Notable
+
+- Worked at [DBIZ](https://digital-business-lab.ch) (Digital Business Research Lab) at Hochschule Luzern
+- Contributed to the **Swiss AI Jobs Report 2025**
+- Exam expert in data science / AI
+
+## Let's connect
+
+- [Website](https://florianbaer.github.io)
+- [LinkedIn](https://linkedin.com/in/florian-baer)
+- [Email](mailto:florian@baer.dev)
+
